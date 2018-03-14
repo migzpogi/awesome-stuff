@@ -2,9 +2,9 @@
 
 A curated list of things I personally find awesome. Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 
-[TOC]
+## Contents
 
-
+- [Videos](#videos)
 
 ## Videos
 
