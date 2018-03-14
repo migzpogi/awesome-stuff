@@ -5,6 +5,15 @@ A curated list of things I personally find awesome. Inspired by the [awesome](ht
 ## Contents
 
 - [Videos](#videos)
+- [Podcasts](#podcasts)
 
 ## Videos
+
+* [Talking Tech with Neil deGrasse Tyson](https://www.youtube.com/watch?v=pqQrL1K0Z5g) 
+
+## Podcasts
+
+* [Speech Bubbles: Understanding Comics with Scott McCloud](https://99percentinvisible.org/episode/speech-bubbles-understanding-comics-scott-mccloud/)
+
+  ​
 
