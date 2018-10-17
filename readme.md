@@ -10,6 +10,8 @@ A curated list of things I personally find awesome. Inspired by the [awesome](ht
 ## Videos
 
 * [Talking Tech with Neil deGrasse Tyson](https://www.youtube.com/watch?v=pqQrL1K0Z5g) 
+* [No Quit - A Nike Commercial](https://www.youtube.com/watch?v=oIzBsvHwYr4)
+* [Optimistic Nihilism](https://www.youtube.com/watch?v=MBRqu0YOH14)
 
 ## Podcasts
 
