@@ -15,6 +15,8 @@ A curated list of things I personally find awesome. Inspired by the [awesome](ht
 * [Talking Tech with Neil deGrasse Tyson](https://www.youtube.com/watch?v=pqQrL1K0Z5g) 
 * [No Quit - A Nike Commercial](https://www.youtube.com/watch?v=oIzBsvHwYr4)
 * [Optimistic Nihilism](https://www.youtube.com/watch?v=MBRqu0YOH14)
+* [Blake Griffin Gets Full-Court Pressed By Spicy Wings | Hot Ones](https://www.youtube.com/watch?v=41iUdhFi8Gs)
+* [Michael Cera Experiences Mouth Pains While Eating Spicy Wings | Hot Ones](https://www.youtube.com/watch?v=uBJq-XCP27c) 
 
 ## Podcasts
 
