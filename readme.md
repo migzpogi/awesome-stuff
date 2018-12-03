@@ -24,6 +24,8 @@ A curated list of things I personally find awesome. Inspired by the [awesome](ht
 
 * [UAAP 81 MB: UP vs Adu | Game Highlights | November 28, 2018](https://www.youtube.com/watch?v=hTcM0X4SY4w&fbclid=IwAR12CsHawYmwfw8P3P49wtZJmdr8KASxAqBPBNzCtTRqP1OQ8AsGXw0U2V8)
 
+* [Bill Burr Gets Red In The Face While Eating Spicy Wings | Hot Ones](https://www.youtube.com/watch?v=8Lvrikv6oPs)
+
   ​
 
 ## Podcasts
