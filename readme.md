@@ -26,7 +26,7 @@ A curated list of things I personally find awesome. Inspired by the [awesome](ht
 
 * [Bill Burr Gets Red In The Face While Eating Spicy Wings | Hot Ones](https://www.youtube.com/watch?v=8Lvrikv6oPs)
 
-  ​
+* [Richard Jefferson Talks Kevin Durant's Potential Free Agent Landing Spots](https://www.youtube.com/watch?v=439JQj0kJuU)
 
 ## Podcasts
 
